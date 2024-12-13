@@ -1,0 +1,2 @@
+# Early-Detection-of-Autistic-Spectrum-Disorder-
+This study focuses on early Autism Spectrum Disorder (ASD) detection across all age groups, emphasizing toddlers (2-4 yrs) &amp; children (5-18 yrs). Using machine learning models like Logistic Regression, KNN, Decision Trees, SVM, &amp; Neural Networks, it identifies key features &amp; employs stacking to create accurate predictive models for early diagnosis.
